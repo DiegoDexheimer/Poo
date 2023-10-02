@@ -75,7 +75,7 @@ public class SistemaCadastro {
                 System.out.println(u);
             }
         }
-        
+                
         start(usuarios);
         sc.close();
     }
